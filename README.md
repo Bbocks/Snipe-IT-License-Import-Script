@@ -11,7 +11,6 @@ This repository contains Python scripts to automate the assignment and managemen
 ## Files
 - `license_import.py`: Main script to assign available license seats to users listed in a file
 - `get_seat_id.py`: Utility script to list available and assigned license seats for a given license
-- `users-pro.csv`, `users-standard.csv`: Example user data files (CSV format)
 
 ## Requirements
 - Python 3.7+
